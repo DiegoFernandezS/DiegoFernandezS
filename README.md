@@ -5,13 +5,15 @@
 ###  * I am an advanced student of the program analyst career at the CEI Institute, Maldonado - Uruguay.
 ###  * My skills:
 
-| rank   | Languages          |
-|-------:|--------------------|
-|       1| Javascript         |
-|       2| C# y Java          |
-|       3| HTML5 y CSS        |
-|       5| MYSQL y SQLserver  |
-|       7| PHP MY ADMIN       |
+| rank   | Languages              |
+|-------:|------------------------|
+|       1| Javascript             |
+|       2| HTML5  CSS             |
+|       3| Java                   |   
+|       4| C#  WPF  Windows Forms |
+|       4| .NET   MVC   MAUI      |
+|       5| MYSQL  phpMyAdmin      |
+|       6| Microsoft SQLserver    |
 <!--
 **DiegoFernandezS/DiegoFernandezS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
